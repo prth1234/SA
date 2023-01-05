@@ -1,0 +1,27 @@
+Tweets,Sentiment_1,Probability,Sentiment_2
+"Wajib tahu, jika anda kemalangan &amp; tuntutan yg anda boleh buat, tahu hak kita 💪
+
+Lanjut di: ",['negative'],"[{'negative': 0.0012759, 'neutral': 0.99836195, 'positive': 0.00036228634}]",['neutral']
+"Nomura menyifatkan langkah itu bakal memberi kesan buruk di seluruh Asia: 
+
+",['neutral'],"[{'negative': 0.010009523, 'neutral': 0.9737006, 'positive': 0.0162898}]",['neutral']
+"Tamat Pengajian Dengan Cemerlang, Ini Wanita Malaysia Pertama Diterima Masuk Ke Akademi Tentera Laut AS..
+
+Kisah datuknya yg dulu pernah menerbangkan Helikopter Nuri di utara Malaysia pada 1980an ketika pemberontakan kedua berlaku menjadi inspirasi Janushaa.. 👇🏻 ",['positive'],"[{'negative': 0.008902895, 'neutral': 0.0141514875, 'positive': 0.97694546}]",['positive']
+"Kementerian Haji dan Umrah Saudi telah memperkenalkan Maqam, sebuah platform yang membenarkan jemaah luar membuat tempahan umrah dan mendapatkan visa secara atas talian.
+
+Baca di: ",['negative'],"[{'negative': 0.0155684175, 'neutral': 0.9800162, 'positive': 0.004415492}]",['neutral']
+"Hari ini ramai yang tertanya-tanya, boleh ke cakap RIP jika ada kawan bukan Muslim meninggal?
+.
+“Kita pakai pandangan mufti kita,” tegas Menteri di Jabatan Perdana Menteri (Hal Ehwal Agama) Datuk Hj Idris Ahmad. ",['negative'],"[{'negative': 0.002463405, 'neutral': 0.9610876, 'positive': 0.036448974}]",['neutral']
+"Laporan Pertubuhan Kesihatan Dunia (WHO)  menunjukkan bahawa 1 dari 3 penduduk dunia tidak mempunyai akses kepada air bersih.
+
+Baca di: ",['positive'],"[{'negative': 0.0023104863, 'neutral': 0.21141441, 'positive': 0.78627515}]",['positive']
+"November ini, hati-hati semua 😭 
+
+",['negative'],"[{'negative': 0.0043456517, 'neutral': 0.98508626, 'positive': 0.010568085}]",['neutral']
+Gempa bumi berukuran 7.6 skala Richter menggegarkan pantai Pasifik tengah Mexico semalam menyebabkan sekurang-kurangnya seorang terbunuh: ,['negative'],"[{'negative': 0.675018, 'neutral': 0.24717195, 'positive': 0.07780995}]",['negative']
+"Kecoh dua tiga hari ini tentang dunia yang dijangka akan terjerumus ke dalam kemelesetan pada 2023.
+.
+Bank Dunia juga beri amaran, bank-bank pusat di seluruh global secara serentak menaikkan kadar faedah untuk bertindak balas terhadap inflasi. ",['negative'],"[{'negative': 0.010378015, 'neutral': 0.011424017, 'positive': 0.978198}]",['positive']
+"Rohingya mengaku membayar antara RM5,000 hingga RM7,000 kepada ejen bagi urusan dapatkan kad UNHCR: ",['negative'],"[{'negative': 0.14659905, 'neutral': 0.74457735, 'positive': 0.10882352}]",['neutral']
