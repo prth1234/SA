@@ -31,17 +31,6 @@ Start the server.
 bash
 Copy code
 python app.py
-The API endpoints will be available for text submissions.
-Step 4: Analyze Sentiments
-Use a tool like Postman or curl to send POST requests to the provided API endpoints.
-
-Endpoint: http://localhost:5000/analyze_sentiment
-Method: POST
-Body: JSON payload with the text to analyze.
-json
-Copy code
-{"text": "Your text goes here"}
-Receive sentiment analysis results in the response.
 
 ## 🤝 Contributing
 Contributions are welcome! Feel free to submit issues or pull requests. Please review our contribution guidelines before getting started.
